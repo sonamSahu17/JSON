@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "student_name": "jeon jungkook",
+        "age": "26",
+        "city": "busan"
+    },
+    {
+        "id": "2",
+        "student_name": "jung hoseok",
+        "age": "28",
+        "city": "Agra"
+    },
+    {
+        "id": "3",
+        "student_name": "kim naamjoon",
+        "age": "28",
+        "city": "Bhopal"
+    },
+    {
+        "id": "4",
+        "student_name": "kim seokjin",
+        "age": "30",
+        "city": "Delhi"
+    },
+    {
+        "id": "5",
+        "student_name": "park jimin",
+        "age": "27",
+        "city": "Mumbai"
+    },
+    {
+        "id": "6",
+        "student_name": "min yoongi",
+        "age": "29",
+        "city": "degu"
+    },
+    {
+        "id": "7",
+        "student_name": "kim taehyung",
+        "age": "27",
+        "city": "degu"
+    }
+]
